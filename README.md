@@ -1,3 +1,8 @@
+[Link to teamcode folder](/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/)
+
+This repository is intended to provide a simple framework for using a mecanum drivetrain in field centric mode or first person mode through a camera mounted on the front and FtcDashboard.
+
+
 ## NOTICE
 
 This repository contains the public FTC SDK for the CENTERSTAGE (2023-2024) competition season.
